@@ -12,6 +12,7 @@
 
 # Backup and temp directories
 /rise-crm_v3.8.2/
+*.zip
 /scratch/
 
 # Environment files
