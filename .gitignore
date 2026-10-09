@@ -16,7 +16,6 @@
 /scratch/
 
 # Environment files
-.env
 
 # Editor files
 .vscode/
@@ -24,5 +23,3 @@
 *.suo
 *.ntvs*
 *.njsproj
-*.sln
-*.sw?
